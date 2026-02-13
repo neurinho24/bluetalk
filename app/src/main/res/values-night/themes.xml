@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.BlueTalk" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/bluetalk_primary</item>
+        <item name="colorPrimaryContainer">@color/bluetalk_primary_dark</item>
+        <item name="android:windowBackground">#101522</item>
+    </style>
+</resources>
