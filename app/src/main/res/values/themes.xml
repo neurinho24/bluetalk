@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.BlueTalk" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/bluetalk_primary</item>
+        <item name="colorPrimaryContainer">@color/bluetalk_primary_dark</item>
+        <item name="android:statusBarColor">@color/bluetalk_primary_dark</item>
+        <item name="android:windowBackground">@color/bluetalk_background</item>
+    </style>
+</resources>

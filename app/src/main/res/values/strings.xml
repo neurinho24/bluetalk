@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlueTalk 🔵</string>
+    <string name="welcome_user">Olá, %1$s</string>
+    <string name="notification_channel_name">Dispositivos BlueTalk próximos</string>
+</resources>
